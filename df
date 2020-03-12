@@ -1,0 +1,7 @@
+echo "# Alberto" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git remote add origin https://github.com/alberto1223/Alberto.git
+ git push -u origin master	h1
+ <h1>la casa por la ventana</h1</p>
